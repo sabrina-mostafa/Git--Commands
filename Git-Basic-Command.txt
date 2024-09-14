@@ -1,0 +1,13 @@
+mkdir (folder_name)  -- to make folder
+cd (folder_name)  -- to enter the folder
+touch (file_name) -- to create files
+cd ../  -- to return to the Parent folder
+
+ls  --  to see the existing file/folder list
+clear  --  for terminal clearing 
+
+git init -- to initialize a .git file(tracking)
+
+git clone (github repo's http link) -- to extract remote(github) files in local
+
+git status  --  to see the changes in files
