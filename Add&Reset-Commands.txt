@@ -1,0 +1,9 @@
+git status  --  to see the changes in files/folders
+
+git add --all   --   to add(transfer) all files/folder on Stage from Local
+git add -A   --   to add(transfer) all files/folder on Stage from Local
+git add .  --   to add(transfer) only the files/folder of the current Folder(we are at) on Stage from Local
+git add *  -- to add(transfer) newly created Local file to Stage
+git add *.(extension) -- to add files with that extension like (git add .txt)
+
+git reset   --  to return from Stage to Local
