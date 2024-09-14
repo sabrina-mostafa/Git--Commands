@@ -11,3 +11,5 @@ git init -- to initialize a .git file(tracking)
 git clone (github repo's http link) -- to extract remote(github) files in local
 
 git status  --  to see the changes in files
+
+pwd -- to see the current path, where i am at
