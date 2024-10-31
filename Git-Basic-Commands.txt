@@ -1,12 +1,12 @@
 mkdir (folder_name)  -- to make folder
-cd (folder_name)  -- to enter the folder
+cd (folder_name)  -- to enter to the folder
 touch (file_name) -- to create files
 cd ../  -- to return to the Parent folder
 
 ls  --  to see the existing file/folder list
 clear  --  for terminal clearing 
 
-git init -- to initialize a .git file(tracking)
+git init -- to initialize a .git file(for tracking)
 
 git clone (github repo's http link) -- to extract remote(github) files in local
 
